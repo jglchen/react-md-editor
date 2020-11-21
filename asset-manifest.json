@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-md-editor/static/css/main.8d2df0b5.chunk.css",
+    "main.js": "/react-md-editor/static/js/main.53cb610f.chunk.js",
+    "main.js.map": "/react-md-editor/static/js/main.53cb610f.chunk.js.map",
+    "runtime-main.js": "/react-md-editor/static/js/runtime-main.f36ca452.js",
+    "runtime-main.js.map": "/react-md-editor/static/js/runtime-main.f36ca452.js.map",
+    "static/css/2.6cd6141d.chunk.css": "/react-md-editor/static/css/2.6cd6141d.chunk.css",
+    "static/js/2.f1a94c21.chunk.js": "/react-md-editor/static/js/2.f1a94c21.chunk.js",
+    "static/js/2.f1a94c21.chunk.js.map": "/react-md-editor/static/js/2.f1a94c21.chunk.js.map",
+    "index.html": "/react-md-editor/index.html",
+    "static/css/2.6cd6141d.chunk.css.map": "/react-md-editor/static/css/2.6cd6141d.chunk.css.map",
+    "static/css/main.8d2df0b5.chunk.css.map": "/react-md-editor/static/css/main.8d2df0b5.chunk.css.map",
+    "static/js/2.f1a94c21.chunk.js.LICENSE.txt": "/react-md-editor/static/js/2.f1a94c21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f36ca452.js",
+    "static/css/2.6cd6141d.chunk.css",
+    "static/js/2.f1a94c21.chunk.js",
+    "static/css/main.8d2df0b5.chunk.css",
+    "static/js/main.53cb610f.chunk.js"
+  ]
+}
