@@ -8,7 +8,7 @@ Markdown is not a syntax that an average user will be familiar with, nor is it v
 
 
 ### [View the App](https://react-md-editor-rho.vercel.app)
-### [GitHub Pages](https://github.com/jglchen/react-md-editor)
+### [App GitHub](https://github.com/jglchen/react-md-editor)
 ### Docker: docker run -p 3000:3000 jglchen/react-md-editor
 ### [React Native Expo Publish](https://expo.dev/@jglchen/md-editor)
 ### [React Native GitHub](https://github.com/jglchen/react-native-md-editor)
