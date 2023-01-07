@@ -24,6 +24,4 @@ Markdown is not a syntax that an average user will be familiar with, nor is it v
 ### [React Native GitHub](https://github.com/jglchen/react-native-md-editor)
 ### back To [Series Home](https://jglchen.github.io/)
 
-HHHHH
-
 {% include giscus.html %}
