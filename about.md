@@ -6,6 +6,9 @@ permalink: /about/
 
 This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
+- #### [RealTime Stock Quote Demonstrations](https://jglchen.github.io/realtime-stock-next/)
+    A demonstration to leverage the browser EventSource API to build a real-time React application.
+
 - #### [React Markdown Editor](https://jglchen.github.io/react-md-editor/)
     A Markdown editor app with React.js built to facilitate editing Markdown documents.
 
