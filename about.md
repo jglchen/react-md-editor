@@ -6,6 +6,9 @@ permalink: /about/
 
 This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
+- #### [Chat Applications with Socket.IO](https://jglchen.github.io/nextjs-socket-chat/)
+    A real-time chat application built with Next.js using Socket.IO for demonstrations.
+
 - #### [RealTime Stock Quote Demonstrations](https://jglchen.github.io/realtime-stock-next/)
     A demonstration to leverage the browser EventSource API to build a real-time React application.
 
